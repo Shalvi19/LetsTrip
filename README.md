@@ -8,4 +8,5 @@ All this information is surely available at google but you have to go through mi
 Also, people can add information about any place that they think others should know about. But first the place would be verified and that the information would be visible to others.
 
 These are the basic functionalities we are focussing on rigth now and then enhance it such that it can update the information using ML gettings it directly from different sites, also, at first we are going to include only one city's information right now and then move to others. 
+
 Also the name is temporary, we are going to think about a better name later.
