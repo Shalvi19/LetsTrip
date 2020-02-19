@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TripIt</string>
+    <string name="title_shopping">Shopping</string>
+    <string name="title_Food">Food</string>
+    <string name="title_activities">Activities</string>
+    <string name="title_places">Places</string>
+    <string name="hint_search">Eg. Mumbai</string>
+</resources>
