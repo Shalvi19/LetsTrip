@@ -10,13 +10,14 @@ uClient.close()
 page_soup = soup(page_html, "html.parser")
 Titles = page_soup.find_all(attrs={"class":"ez-toc-section"})
 Info = page_soup.find_all("ul", limit=29)
-
+Header=[]
+Information=[]
 for x in Titles:
-    print(x.get_text())
+    Header.append(x.get_text())
 for x in Info:
-     print(x.get_text())
+    Information.append(x.get_text())
 
-filename="place.csv"
-f= open(filename,"w",encoding='UTF-8')
-headers="Titles, Info \n"
-f.write(headers)
+df=pd.DataFrame(Header)
+df1=pd.DataFrame(Information)
+df.to_csv('Places.csv')
+df1.to_csv('Places1.csv')

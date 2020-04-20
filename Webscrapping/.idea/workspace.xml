@@ -14,7 +14,15 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="ADD_SUFFIX_TO_CHERRY_PICKS_OF_PUBLISHED_COMMITS" value="false" />
+    <option name="PREVIEW_PUSH_ON_COMMIT_AND_PUSH" value="false" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="WARN_ABOUT_CRLF" value="false" />
+    <option name="WARN_ABOUT_DETACHED_HEAD" value="false" />
+  </component>
   <component name="ProjectId" id="1Y3fhiDa9iPJTpsER6WBHWGXtxX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,10 +30,11 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
-  <component name="RunManager" selected="Python.Activities">
-    <configuration name="Activities" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.ab">
+    <configuration name="Images" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ABC" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -37,7 +46,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Activities.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Images.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -88,7 +97,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="temp" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="aa" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ABC" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -100,7 +109,28 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/temp.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aa.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ab" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ABC" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ab.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -111,10 +141,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Activities" />
+        <item itemvalue="Python.ab" />
+        <item itemvalue="Python.aa" />
+        <item itemvalue="Python.Images" />
         <item itemvalue="Python.Shopping" />
         <item itemvalue="Python.Places" />
-        <item itemvalue="Python.temp" />
       </list>
     </recent_temporary>
   </component>
@@ -132,34 +163,50 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="679" y="174" key="#Activities" timestamp="1587309456920">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="679" y="174" key="#Activities/0.40.1920.1040@0.40.1920.1040" timestamp="1587309456920" />
     <state x="731" y="363" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1582176335278">
       <screen x="0" y="40" width="1920" height="1040" />
     </state>
     <state x="731" y="363" key="#com.intellij.fileTypes.FileTypeChooser/0.40.1920.1040@0.40.1920.1040" timestamp="1582176335278" />
-    <state width="992" height="273" key="GridCell.Tab.0.bottom" timestamp="1584179851400">
+    <state x="1220" y="318" key="FileChooserDialogImpl" timestamp="1587009896893">
       <screen x="0" y="40" width="1920" height="1040" />
     </state>
-    <state width="992" height="273" key="GridCell.Tab.0.bottom/0.40.1920.1040@0.40.1920.1040" timestamp="1584179851400" />
-    <state width="992" height="273" key="GridCell.Tab.0.center" timestamp="1584179851400">
+    <state x="1220" y="318" key="FileChooserDialogImpl/0.40.1920.1040@0.40.1920.1040" timestamp="1587009896893" />
+    <state width="1554" height="275" key="GridCell.Tab.0.bottom" timestamp="1587391424795">
       <screen x="0" y="40" width="1920" height="1040" />
     </state>
-    <state width="992" height="273" key="GridCell.Tab.0.center/0.40.1920.1040@0.40.1920.1040" timestamp="1584179851400" />
-    <state width="992" height="273" key="GridCell.Tab.0.left" timestamp="1584179851400">
+    <state width="1554" height="275" key="GridCell.Tab.0.bottom/0.40.1920.1040@0.40.1920.1040" timestamp="1587391424795" />
+    <state width="1554" height="275" key="GridCell.Tab.0.center" timestamp="1587391424794">
       <screen x="0" y="40" width="1920" height="1040" />
     </state>
-    <state width="992" height="273" key="GridCell.Tab.0.left/0.40.1920.1040@0.40.1920.1040" timestamp="1584179851400" />
-    <state width="992" height="273" key="GridCell.Tab.0.right" timestamp="1584179851400">
+    <state width="1554" height="275" key="GridCell.Tab.0.center/0.40.1920.1040@0.40.1920.1040" timestamp="1587391424794" />
+    <state width="1554" height="275" key="GridCell.Tab.0.left" timestamp="1587391424794">
       <screen x="0" y="40" width="1920" height="1040" />
     </state>
-    <state width="992" height="273" key="GridCell.Tab.0.right/0.40.1920.1040@0.40.1920.1040" timestamp="1584179851400" />
-    <state x="461" y="202" key="SettingsEditor" timestamp="1584082982806">
+    <state width="1554" height="275" key="GridCell.Tab.0.left/0.40.1920.1040@0.40.1920.1040" timestamp="1587391424794" />
+    <state width="1554" height="275" key="GridCell.Tab.0.right" timestamp="1587391424794">
       <screen x="0" y="40" width="1920" height="1040" />
     </state>
-    <state x="461" y="202" key="SettingsEditor/0.40.1920.1040@0.40.1920.1040" timestamp="1584082982806" />
+    <state width="1554" height="275" key="GridCell.Tab.0.right/0.40.1920.1040@0.40.1920.1040" timestamp="1587391424794" />
+    <state x="461" y="202" key="SettingsEditor" timestamp="1587391371689">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="461" y="202" key="SettingsEditor/0.40.1920.1040@0.40.1920.1040" timestamp="1587391371689" />
     <state x="172" y="305" width="540" height="524" key="StructurePopup" timestamp="1584082245550">
       <screen x="0" y="40" width="1920" height="1040" />
     </state>
     <state x="172" y="305" width="540" height="524" key="StructurePopup/0.40.1920.1040@0.40.1920.1040" timestamp="1584082245550" />
+    <state x="552" y="293" key="Vcs.Push.Dialog.v2" timestamp="1587355535796">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="552" y="293" key="Vcs.Push.Dialog.v2/0.40.1920.1040@0.40.1920.1040" timestamp="1587355535796" />
+    <state x="1249" y="480" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1586973619927">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="1249" y="480" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.40.1920.1040@0.40.1920.1040" timestamp="1586973619927" />
     <state x="1152" y="115" width="771" height="1019" maximized="true" key="dock-window-1" timestamp="1583218913909">
       <screen x="0" y="40" width="1920" height="1040" />
     </state>
