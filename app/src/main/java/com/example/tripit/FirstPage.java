@@ -10,13 +10,19 @@ import android.os.Bundle;
 import com.example.tripit.R;
 
 public class FirstPage extends AppCompatActivity {
-
+    private RecyclerView recyclerView;
+    private int[] images = {R.drawable.goa, R.drawable.lavasa, R.drawable.sikkim, R.drawable.nainital};
+    private String[] title = {"Goa", "Lavasa", "Sikkim", "Nainital"};
+    private RecyclerAdapter adapter;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_first_page);
-        RecyclerView recyclerView = (RecyclerView) findViewById(R.id.recyclerView);
-        GridLayoutManager gridLayoutManager = new GridLayoutManager(getApplicationContext(),3);
+        recyclerView = (RecyclerView) findViewById(R.id.recyclerView);
+        GridLayoutManager gridLayoutManager = new GridLayoutManager(getApplicationContext(),2);
+        recyclerView.setHasFixedSize(true);
         recyclerView.setLayoutManager(gridLayoutManager);
+        adapter = new RecyclerAdapter(images, title);
+        recyclerView.setAdapter(adapter);
     }
 }
