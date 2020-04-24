@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:padding="10dp"
+    android:elevation="12dp">
+
+    <TextView
+        android:layout_width="388dp"
+        android:layout_height="wrap_content"
+        android:padding="8dp"
+        android:gravity="center"
+        android:textSize="38dp"
+        android:textStyle="italic"
+        android:id="@+id/restaurant"/>
+    <TextView
+        android:layout_width="388dp"
+        android:layout_height="wrap_content"
+        android:padding="8dp"
+        android:gravity="center"
+        android:textSize="18dp"
+
+        android:id="@+id/mustTry"/>
+    <TextView
+        android:layout_width="388dp"
+        android:layout_height="wrap_content"
+        android:padding="8dp"
+        android:gravity="center"
+        android:textSize="18dp"
+
+        android:id="@+id/location"/>
+    <TextView
+        android:layout_width="388dp"
+        android:layout_height="wrap_content"
+        android:padding="8dp"
+        android:gravity="center"
+        android:textSize="18dp"
+
+        android:id="@+id/cuisine"/>
+    <TextView
+        android:layout_width="388dp"
+        android:layout_height="wrap_content"
+        android:padding="8dp"
+        android:gravity="center"
+        android:textSize="18dp"
+
+        android:id="@+id/cost"/>
+    <TextView
+        android:layout_width="388dp"
+        android:layout_height="wrap_content"
+        android:padding="8dp"
+        android:gravity="center"
+        android:textSize="18dp"
+
+        android:id="@+id/googleRating"/>
+    <TextView
+        android:layout_width="388dp"
+        android:layout_height="wrap_content"
+        android:padding="8dp"
+        android:gravity="center"
+        android:textSize="18dp"
+        android:id="@+id/zomatoRating"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="5dp"
+        android:background="@color/line"/>
+
+</LinearLayout>

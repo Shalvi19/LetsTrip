@@ -1,35 +1,71 @@
 package com.example.tripit.ui.dashboard;
 
+import android.os.AsyncTask;
 import android.os.Bundle;
+import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
-import android.widget.TextView;
 
-import androidx.annotation.Nullable;
 import androidx.annotation.NonNull;
 import androidx.fragment.app.Fragment;
-import androidx.lifecycle.Observer;
-import androidx.lifecycle.ViewModelProviders;
+import androidx.recyclerview.widget.GridLayoutManager;
+import androidx.recyclerview.widget.RecyclerView;
 
+import com.example.tripit.DashboardFragmentAdapter;
 import com.example.tripit.R;
+import com.google.android.gms.tasks.OnCompleteListener;
+import com.google.android.gms.tasks.Task;
+import com.google.firebase.firestore.FirebaseFirestore;
+import com.google.firebase.firestore.QueryDocumentSnapshot;
+import com.google.firebase.firestore.QuerySnapshot;
 
-public class DashboardFragment extends Fragment {
+import java.util.ArrayList;
 
-    private DashboardViewModel dashboardViewModel;
-
-    public View onCreateView(@NonNull LayoutInflater inflater,
+public class DashboardFragment extends Fragment  {
+//    private String[] Info;
+//    int i=0;
+    public ArrayList<String> Restaurant= new ArrayList<>();
+    public ArrayList<String> MustTry= new ArrayList<>();
+    public ArrayList<String> Location=new ArrayList<>();
+    public ArrayList<String> Cuisine=new ArrayList<>();
+    public ArrayList<String> CostForTwo=new ArrayList<>();
+    public ArrayList<String> GoogleRating= new ArrayList<>();
+    public ArrayList<String> ZomatoRating= new ArrayList<>();
+    private RecyclerView recyclerView;
+    public View onCreateView( LayoutInflater inflater,
                              ViewGroup container, Bundle savedInstanceState) {
-        dashboardViewModel =
-                ViewModelProviders.of(this).get(DashboardViewModel.class);
-        View root = inflater.inflate(R.layout.fragment_dashboard, container, false);
-        final TextView textView = root.findViewById(R.id.text_dashboard);
-        dashboardViewModel.getText().observe(this, new Observer<String>() {
-            @Override
-            public void onChanged(@Nullable String s) {
-                textView.setText(s);
-            }
-        });
+        final View root = (inflater.inflate(R.layout.fragment_food, container,false));
+        recyclerView = root.findViewById(R.id.fragview);
+        GridLayoutManager gridLayoutManager = new GridLayoutManager(getContext(),1);
+        recyclerView.setHasFixedSize(true);
+        recyclerView.setLayoutManager(gridLayoutManager);
+        final FirebaseFirestore db = FirebaseFirestore.getInstance();
+        db.collection("Food1").get().
+                addOnCompleteListener(new OnCompleteListener<QuerySnapshot>() {
+                    @Override
+                    public void onComplete(@NonNull Task<QuerySnapshot> task) {
+                        if (task.isSuccessful()) {
+                            for (QueryDocumentSnapshot document : task.getResult()) {
+
+                                Restaurant.add("Restaurant=> "+ document.get("Restaurant"));
+                                MustTry.add("Must Try=> " + document.get("MustTry"));
+                                Location.add("Location=> " + document.get("Location"));
+                                Cuisine.add("Cuisine=> " + document.get("Cuisine"));
+                                CostForTwo.add("Cost For Two=> " + document.get("CostForTwo"));
+                                GoogleRating.add("Google Rating (out of 5)=> " + document.get("GoogleRating(outof5)"));
+                                ZomatoRating.add("Zomato Rating (out of 5)=> " + document.get("ZomatoRating(outof5)"));
+                            }
+                            //Log.e("res", String.valueOf(Restaurant));
+                        }
+                        DashboardFragmentAdapter adapter = new DashboardFragmentAdapter(Restaurant, MustTry, Location, Cuisine, CostForTwo, GoogleRating, ZomatoRating);
+                        recyclerView.setAdapter(adapter);
+
+                    }
+                });
         return root;
     }
 }
+
+
+
