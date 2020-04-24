@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "74874428965",
+    "firebase_url": "https://letstrip-6e8e6.firebaseio.com",
+    "project_id": "letstrip-6e8e6",
+    "storage_bucket": "letstrip-6e8e6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:74874428965:android:b9fe1e601b19406f6ba9cc",
+        "android_client_info": {
+          "package_name": "com.example.tripit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "74874428965-jvfnmda3uiors03sk6e4k1cdit0em1tr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPmulZHfYojsfBVkRqRwZS9M7hV1j4Ttk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "74874428965-jvfnmda3uiors03sk6e4k1cdit0em1tr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
