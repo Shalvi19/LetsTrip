@@ -1,0 +1,122 @@
+[
+  {
+    "Shopping Point": "Johari Bazaar-For Jewelry",
+    "Speciality": "Jewelry with precious gemstones, and handmade necklaces",
+    "Timing": "10 am to 11 pm",
+    "Location": "Gangori Bazar",
+    "Nearest Bus Stop": "Badi Chopar Bus Stop",
+    "Nearest Restaurants": "Laxmi Mishthan Bhandar, Ramdev Restaurant, Kabul Chicken Sajji, Shri Shyaam Chaat Bhandar, Parantha Shop"
+  },
+  {
+    "Shopping Point": "Tripolia Bazaar-For Bangles",
+    "Speciality": "Shop for lac jewelry",
+    "Timing": "10 am to 7 pm",
+    "Location": "Kanwar Nagar",
+    "Nearest Bus Stop": "Choti Chopad Bus Stop",
+    "Nearest Restaurants": "Midtown Multicuisine Restaurant, Shrii Gopi Pavita Bhojnalaya, Nice Cafe, The Palace Cafe, Samrat Ki Kachori Samosa"
+  },
+  {
+    "Shopping Point": "Chandpole Bazaar-For Handicrafts",
+    "Speciality": "marble sculptures in all hues and designs and relish",
+    "Timing": "11 am onwards",
+    "Location": "Topkhana Desh, Jhotwara",
+    "Nearest Bus Stop": "Choti Chopad Bus Stop",
+    "Nearest Restaurants": "Krishna's Bakery, Shiv Shakti Pavitra Bhojnalaya, Mohan Restaurant, Bagra Pavitra Bhojnalaya"
+  },
+  {
+    "Shopping Point": "Kishanpole Bazaar-For Textiles",
+    "Speciality": "wooden sculptures and souvenirs",
+    "Timing": "11 am to 9 pm",
+    "Location": "Kishanpole Bazar Road",
+    "Nearest Bus Stop": "Choti Chopad Bus Stop",
+    "Nearest Restaurants": "Sartaj Hotel, Akbari Hotel, Morija House Restaurant, Karan Restaurant, New Janta Bakery"
+  },
+  {
+    "Shopping Point": "Nehru Bazaar-For Traditional Jootis",
+    "Speciality": "Joothis",
+    "Timing": "10:30 am to 7:30 pm",
+    "Location": "Film Colony, Modikhana, Jhotwara",
+    "Nearest Bus Stop": "Hathoj Bus Stop",
+    "Nearest Restaurants": "Sardar Ji's Lassi and Kachori, Mohan Restaurant, Ganesh Restaurant, Neelam Dhaba, Shri Mahaveer Dhaba, Dev Hotel"
+  },
+  {
+    "Shopping Point": "Sireh Deori Bazaar-For Street Shopping",
+    "Speciality": "Camel Leather products",
+    "Timing": "11 am onwards",
+    "Location": "Tulsi Marg, J.D.A. Market",
+    "Nearest Bus Stop": "Badi Choupad Bus",
+    "Nearest Restaurants": "Marky Momos Hawamahal, Kabul Chicken Sajji, Art Cafe, Heritage Buffet Restaurant"
+  },
+  {
+    "Shopping Point": "Bapu Bazaar-For All Jaipuri Items",
+    "Speciality": "Jaipur textile goods",
+    "Timing": "11 am onwards",
+    "Location": "Bapu Bazaar",
+    "Nearest Bus Stop": "Sindhi Camp Bus Stop",
+    "Nearest Restaurants": "Valentine Cafe, KR Restaurant, Samrat Restaurant, Falahaar, Laxmi Mishthan Bhandar, Garam Masala"
+  },
+  {
+    "Shopping Point": "Mirza Ismail Road (MI Road)-For Pottery",
+    "Speciality": "colorful pots and wooden souvenirs",
+    "Timing": "11 am onwards",
+    "Location": "MI Road",
+    "Nearest Bus Stop": "Ajmeri Gate Bus Stop",
+    "Nearest Restaurants": "Barbeque Nation, Niros Restaurant, Handi Restaurant, Topaz Restaurant, Talk Of The Town, Akh Bar, The Yellow House"
+  },
+  {
+    "Shopping Point": "Tibbati Market-For Local Souvenirs",
+    "Speciality": "beautiful handicrafts and souvenirs along with winter outfits",
+    "Timing": "10 am to 9 pm",
+    "Location": "Kanwar Nagar",
+    "Nearest Bus Stop": "Chhoti Chopar Bus Stop",
+    "Nearest Restaurants": "30rs Pizza, Baradari Restaurant and Bar, Shree Gopi Pavitra�Bhojnalaya"
+  },
+  {
+    "Shopping Point": "Anokhi-For Colorful Garments",
+    "Speciality": "prints and designs to decorate your home",
+    "Timing": "10 am to 8 pm",
+    "Location": "Todi Ramzanipura, Jagatpura",
+    "Nearest Bus Stop": "NRI Circle Bus Stop",
+    "Nearest Restaurants": "Kalyan Heritage Rooftop & Garden Restaurant, Potlee, MZ Restaurant, Chatkara Dhaba, Lajawab Restaurant"
+  },
+  {
+    "Shopping Point": "Gaurav Tower-For Local Products",
+    "Speciality": "trendy outfits and apparel",
+    "Timing": "9:30 am to 11 pm",
+    "Location": "Malviya Nagar",
+    "Nearest Bus Stop": "Malviya Nagar Sector 4 Bus Stop",
+    "Nearest Restaurants": "Kahna Restaurant, Burger Farm Express, Achanak Juice, Nand Lal Ji Chhole Wale, GT's Jaipuri Chatkara, China Town"
+  },
+  {
+    "Shopping Point": "The Gem Palace-For Antique Charms",
+    "Speciality": "charming jewlery and beautiful charms",
+    "Timing": "10:30 am to 7 pm",
+    "Location": "Shop No. 348, MI Road, Jayanti Market, New Colony",
+    "Nearest Bus Stop": "LNMIIT Bus Stop",
+    "Nearest Restaurants": "The Grill Restaurants, Golden Dragon, Big Food Door, Stepout Cafe and Book lounge, Indian Coffee House, Niro's"
+  },
+  {
+    "Shopping Point": "Kripal Kumbh-For Blue Pottery",
+    "Speciality": "gorgeous artworks of local potters",
+    "Timing": "8 am to 8 pm",
+    "Location": "Location: B-18, Shiv Marg, Banipark, Kanti Nagar, Bani Park",
+    "Nearest Bus Stop": "Sindhi Camp Bus Stand",
+    "Nearest Restaurants": "Tara Niwas, Rajasthani Thali, Kloud, Blue Ice, Farzi Cafe Jaipur Adda, Mazica Cafe"
+  },
+  {
+    "Shopping Point": "Aravali Bazaar-For Home Decor Items",
+    "Speciality": "home decor items",
+    "Timing": "11 am to 6 pm",
+    "Location": "B-5/B-6, Vinayak Apartment, C-1, Prithviraj Road, Prithviraj Road",
+    "Nearest Bus Stop": "Sardar Patel Marg Bus Stop",
+    "Nearest Restaurants": "Masala Ministry, Little Italy Restaurant, Culture Restaurant, Nectar Jaipur, Inchin Chinese & Thai"
+  },
+  {
+    "Shopping Point": "Purohit Ji Ka Katla-For Wedding Items",
+    "Speciality": "All wedding related items",
+    "Timing": "11 am to 8 pm",
+    "Location": "Purohit ji ka katla, Johari Bazar Rd",
+    "Nearest Bus Stop": "Badi Chopar�Bus Stop",
+    "Nearest Restaurants": "Ramdev Restaurant, Sahu Restaurant, Govind Restaurant"
+  }
+]

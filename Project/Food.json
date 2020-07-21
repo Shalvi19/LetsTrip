@@ -1,0 +1,227 @@
+[
+  {
+    "Restaurant": "Jaipur Adda",
+    "Must Try": "Naan Pizza, Karari Roti, Mojito, Corn Bhel",
+    "Location": "8/9, Station Road, Kanti Nagar, Sindhi Camp",
+    "Cuisine": "Modern Indian",
+    "Cost For Two": "INR 1800",
+    "Google Rating (out of 5)": 4.25,
+    "Zomato Rating (out of 5)": 4.2
+  },
+  {
+    "Restaurant": "The Rajput Room",
+    "Must Try": "Laal Maas",
+    "Location": "Rambagh Palace, Bhawani Singh Road, Rambagh",
+    "Cuisine": "North Indian, Continental, Asian",
+    "Cost For Two": "INR 4000",
+    "Google Rating (out of 5)": 5,
+    "Zomato Rating (out of 5)": 5
+  },
+  {
+    "Restaurant": "Zolocrust",
+    "Must Try": "Mezze Platter, Tiramisu, Spaghetti, Apple Pie",
+    "Location": "Hotel Clarks Amer, Jawahar Lal Nehru Marg",
+    "Cuisine": "Italian, Bakery, Continental",
+    "Cost For Two": "INR 2000",
+    "Google Rating (out of 5)": 4.6,
+    "Zomato Rating (out of 5)": 4.8
+  },
+  {
+    "Restaurant": "RJ 14",
+    "Must Try": "Chana Masala, Dal Bukhara, Tmota Shorba, Panipuri",
+    "Location": "Plot No 132, 133, 151, Ajmer Road, DCM",
+    "Cuisine": "North Indian, South Indian",
+    "Cost For Two": "INR 900",
+    "Google Rating (out of 5)": 4.1,
+    "Zomato Rating (out of 5)": 4
+  },
+  {
+    "Restaurant": "Taruveda",
+    "Must Try": "Waffles, Pepperoni Pizza, Ceasar Salad, Sushi",
+    "Location": "1st Floor, Sunraj Villa, 2 Mysore House, Jacob Road, Madrapura, Civil Lines",
+    "Cuisine": "Italian, Japanese, Continental",
+    "Cost For Two": "INR 1000",
+    "Google Rating (out of 5)": 4.3,
+    "Zomato Rating (out of 5)": 4.1
+  },
+  {
+    "Restaurant": "Chao Chinese Bistro",
+    "Must Try": "Jumbo Prawns, Fish Grills, Noodles, Dumplings",
+    "Location": "Holiday Inn, Sardar Patel Marg, Bais Godam",
+    "Cuisine": "Chinese, Asaian",
+    "Cost For Two": "INR 2500",
+    "Google Rating (out of 5)": 5,
+    "Zomato Rating (out of 5)": 4.3
+  },
+  {
+    "Restaurant": "Tapri Central",
+    "Must Try": "Sauteed Mushrooms, Tadka Maggi, Falafel, Nachos",
+    "Location": "B4-e, Prithviraj Road, Opposite Central Park Gate No. 4, C-Scheme",
+    "Cuisine": "Caf�, Fast Food",
+    "Cost For Two": "INR 750",
+    "Google Rating (out of 5)": 4.5,
+    "Zomato Rating (out of 5)": 4.7
+  },
+  {
+    "Restaurant": "Handi",
+    "Must Try": "Lal Maans, Jaisalmeri Laal Maas, Afghan Chicken",
+    "Location": "Maya Mansion, Opposite GPO, MI Road",
+    "Cuisine": "North Indian, Mughlai, Kebab",
+    "Cost For Two": "INR 1000",
+    "Google Rating (out of 5)": 4,
+    "Zomato Rating (out of 5)": 3.7
+  },
+  {
+    "Restaurant": "Dragon House",
+    "Must Try": "Manchow Soup, Noodles, Manchurian, Dimsums",
+    "Location": "MI Road, Khasa Kothi Circle",
+    "Cuisine": "Chinese, Thai",
+    "Cost For Two": "INR 1800",
+    "Google Rating (out of 5)": 3.6,
+    "Zomato Rating (out of 5)": 4.3
+  },
+  {
+    "Restaurant": "Samode Haveli",
+    "Must Try": "Dal Makhni, Laal Maans, Butter Chicken",
+    "Location": "Near Jorawar Singh Gate, Gangapole",
+    "Cuisine": "Mughlai, North Indian, Continental, Rajasthani",
+    "Cost For Two": "INR 3500",
+    "Google Rating (out of 5)": 4.7,
+    "Zomato Rating (out of 5)": 3.8
+  },
+  {
+    "Restaurant": "The Foressta",
+    "Must Try": "Butter Chicken, Risotto, Laal Maans, Spring Rolls",
+    "Location": "Ground Floor, Devraj Niwas, Near Moti Mahal Cinema, Bani Park",
+    "Cuisine": "Continental, Mexican, Desserts, North Indian, Chinese, Rajasthani",
+    "Cost For Two": "INR 1800",
+    "Google Rating (out of 5)": 4.1,
+    "Zomato Rating (out of 5)": 4
+  },
+  {
+    "Restaurant": "1135 AD",
+    "Must Try": "Chicken Tikka, Paneer Lababdar, Paan Ice Cream, Laal Maans",
+    "Location": "Amer Road, Amer Kila",
+    "Cuisine": "North Indian, Pajasthani",
+    "Cost For Two": "INR 1000",
+    "Google Rating (out of 5)": 3.8,
+    "Zomato Rating (out of 5)": 4
+  },
+  {
+    "Restaurant": "Cinnamon",
+    "Must Try": "Daal Makhani, Dal Bukhara, Vegetable Biryani",
+    "Location": "Jacob Road, Civil Lines, Ganpati Nagar",
+    "Cuisine": "North Indian",
+    "Cost For Two": "INR 3600",
+    "Google Rating (out of 5)": 4.6,
+    "Zomato Rating (out of 5)": 3.9
+  },
+  {
+    "Restaurant": "Bar Palladio",
+    "Must Try": "Tiramisu, Spaghetti, Mashed Potato, Fries",
+    "Location": "Kanota Bagh, Bhag Singh Road, Adarsh Nagar",
+    "Cuisine": "Italian, Finger Food",
+    "Cost For Two": "INR 1800",
+    "Google Rating (out of 5)": 4.2,
+    "Zomato Rating (out of 5)": 3.6
+  },
+  {
+    "Restaurant": "Steam",
+    "Must Try": "Thin Crust Pizza, Sangria, Falafel Wrap, Pizza Calzone",
+    "Location": "Rambagh Palace, Bhawani Singh Road, Rambagh",
+    "Cuisine": "Italian, Lebanese",
+    "Cost For Two": "INR 2800",
+    "Google Rating (out of 5)": 4.7,
+    "Zomato Rating (out of 5)": 4.2
+  },
+  {
+    "Restaurant": "Om Resolving restaurant",
+    "Must Try": "Rajasthani Thali",
+    "Location": "Hotel OM Tower, MI Road, Church Road",
+    "Cuisine": "North Indian, Continental, Chinese, Rajasthani",
+    "Cost For Two": "INR 1800",
+    "Google Rating (out of 5)": 3.6,
+    "Zomato Rating (out of 5)": 2.6
+  },
+  {
+    "Restaurant": "Colorbar",
+    "Must Try": "Mocktails, Paneer Tikka",
+    "Location": "Radisson Blu Jaipur, Tonk Road",
+    "Cuisine": "Finger Food",
+    "Cost For Two": "INR 3000",
+    "Google Rating (out of 5)": 4.7,
+    "Zomato Rating (out of 5)": 4
+  },
+  {
+    "Restaurant": "Kaleidoscope",
+    "Must Try": "Beetroot tikki, Pesto Chicken, Chur Chur Paratha, Peri Peri Chicken",
+    "Location": "A-2/2, Tilak Marg, C Scheme, Ashok Nagar",
+    "Cuisine": "Continental, Italian, Mexican, North Indian",
+    "Cost For Two": "INR 1000",
+    "Google Rating (out of 5)": 4.2,
+    "Zomato Rating (out of 5)": 4.1
+  },
+  {
+    "Restaurant": "Laxmi Mishthan Bhandar",
+    "Must Try": "Rajasthani Thali, Mawa Kachori, Onion Kachori, Dahi Vada",
+    "Location": "Shop No. 98-99, Johri Bazar",
+    "Cuisine": "Dessert, North Indian, South Indian, Rajasthani",
+    "Cost For Two": "INR 1000",
+    "Google Rating (out of 5)": 3.8,
+    "Zomato Rating (out of 5)": 2.3
+  },
+  {
+    "Restaurant": "Blackout",
+    "Must Try": "Nachos, Club Sandwich, Chicken Pizza, Mocktails",
+    "Location": "D38A, 8th and 9th Floor, Golden Oak Hotel, Landmark Building, Ahinsa Cricle, C Scheme",
+    "Cuisine": "North Indian, Italian, Continental, Finger Food",
+    "Cost For Two": "INR 1650",
+    "Google Rating (out of 5)": 4,
+    "Zomato Rating (out of 5)": 3.9
+  },
+  {
+    "Restaurant": "Caf� Lazy Mojo",
+    "Must Try": "Mocktails, Bruschetta, Nachos, Pene Alfredo",
+    "Location": "H1-H2, SL Marg, Opp. Genpact, Lal Bahadur Nagar, Malviya Nagar",
+    "Cuisine": "Mexican, Italian, Continental",
+    "Cost For Two": "INR 800",
+    "Google Rating (out of 5)": 4.4,
+    "Zomato Rating (out of 5)": 4.2
+  },
+  {
+    "Restaurant": "OTB On The Bar BQ",
+    "Must Try": "Butter Chicken, BBQ, Nachos, Brownie",
+    "Location": "Rooftop, Crystal Court Mall, Malviya Nagar",
+    "Cuisine": "North Indian, Chinese, Continental, Mexican, Italian, Lebanese",
+    "Cost For Two": "INR 1200",
+    "Google Rating (out of 5)": 4.2,
+    "Zomato Rating (out of 5)": 4.1
+  },
+  {
+    "Restaurant": "Poppin Organic Caf�",
+    "Must Try": "Breakfast Platter, Green Salad, Lasagna, Chicken Burger",
+    "Location": "E-145, First Floor, Ramesh Marg, C Scheme",
+    "Cuisine": "Italian, Chinese, Caf�",
+    "Cost For Two": "INR 800",
+    "Google Rating (out of 5)": 4.4,
+    "Zomato Rating (out of 5)": 4.2
+  },
+  {
+    "Restaurant": "25 Degree East",
+    "Must Try": "Shahi Tukda, Chicken Malai Tikka Butter Chicken, Chicken Korma",
+    "Location": "f-11 A, Chaitanya Marg, C Scheme",
+    "Cuisine": "North Indian, Mughlai",
+    "Cost For Two": "INR 600",
+    "Google Rating (out of 5)": 4.3,
+    "Zomato Rating (out of 5)": 4.5
+  },
+  {
+    "Restaurant": "Mamu's Infusion",
+    "Must Try": "Ravioli, Pasta Arrabiata, Mocktail, Falafel",
+    "Location": "101, 1st Floor, Mangalam Ambition Tower, Subash Marg, C Scheme",
+    "Cuisine": "Italian, Chinese, Thai, Mexican, North Indian",
+    "Cost For Two": "INR 1400",
+    "Google Rating (out of 5)": 4.1,
+    "Zomato Rating (out of 5)": 4
+  }
+]

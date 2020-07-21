@@ -1,0 +1,227 @@
+[
+  {
+    "Restaurant": "Jaipur Adda",
+    "MustTry": "Naan Pizza, Karari Roti, Mojito, Corn Bhel",
+    "Location": "8/9, Station Road, Kanti Nagar, Sindhi Camp",
+    "Cuisine": "Modern Indian",
+    "CostForTwo": "INR 1800",
+    "GoogleRating(outof5)": 4.25,
+    "ZomatoRating(outof5)": 4.2
+  },
+  {
+    "Restaurant": "The Rajput Room",
+    "MustTry": "Laal Maas",
+    "Location": "Rambagh Palace, Bhawani Singh Road, Rambagh",
+    "Cuisine": "North Indian, Continental, Asian",
+    "CostForTwo": "INR 4000",
+    "GoogleRating(outof5)": 5,
+    "ZomatoRating(outof5)": 5
+  },
+  {
+    "Restaurant": "Zolocrust",
+    "MustTry": "Mezze Platter, Tiramisu, Spaghetti, Apple Pie",
+    "Location": "Hotel Clarks Amer, Jawahar Lal Nehru Marg",
+    "Cuisine": "Italian, Bakery, Continental",
+    "CostForTwo": "INR 2000",
+    "GoogleRating(outof5)": 4.6,
+    "ZomatoRating(outof5)": 4.8
+  },
+  {
+    "Restaurant": "RJ 14",
+    "MustTry": "Chana Masala, Dal Bukhara, Tmota Shorba, Panipuri",
+    "Location": "Plot No 132, 133, 151, Ajmer Road, DCM",
+    "Cuisine": "North Indian, South Indian",
+    "CostForTwo": "INR 900",
+    "GoogleRating(outof5)": 4.1,
+    "ZomatoRating(outof5)": 4
+  },
+  {
+    "Restaurant": "Taruveda",
+    "MustTry": "Waffles, Pepperoni Pizza, Ceasar Salad, Sushi",
+    "Location": "1st Floor, Sunraj Villa, 2 Mysore House, Jacob Road, Madrapura, Civil Lines",
+    "Cuisine": "Italian, Japanese, Continental",
+    "CostForTwo": "INR 1000",
+    "GoogleRating(outof5)": 4.3,
+    "ZomatoRating(outof5)": 4.1
+  },
+  {
+    "Restaurant": "Chao Chinese Bistro",
+    "MustTry": "Jumbo Prawns, Fish Grills, Noodles, Dumplings",
+    "Location": "Holiday Inn, Sardar Patel Marg, Bais Godam",
+    "Cuisine": "Chinese, Asaian",
+    "CostForTwo": "INR 2500",
+    "GoogleRating(outof5)": 5,
+    "ZomatoRating(outof5)": 4.3
+  },
+  {
+    "Restaurant": "Tapri Central",
+    "MustTry": "Sauteed Mushrooms, Tadka Maggi, Falafel, Nachos",
+    "Location": "B4-e, Prithviraj Road, Opposite Central Park Gate No. 4, C-Scheme",
+    "Cuisine": "Caf�, Fast Food",
+    "CostForTwo": "INR 750",
+    "GoogleRating(outof5)": 4.5,
+    "ZomatoRating(outof5)": 4.7
+  },
+  {
+    "Restaurant": "Handi",
+    "MustTry": "Lal Maans, Jaisalmeri Laal Maas, Afghan Chicken",
+    "Location": "Maya Mansion, Opposite GPO, MI Road",
+    "Cuisine": "North Indian, Mughlai, Kebab",
+    "CostForTwo": "INR 1000",
+    "GoogleRating(outof5)": 4,
+    "ZomatoRating(outof5)": 3.7
+  },
+  {
+    "Restaurant": "Dragon House",
+    "MustTry": "Manchow Soup, Noodles, Manchurian, Dimsums",
+    "Location": "MI Road, Khasa Kothi Circle",
+    "Cuisine": "Chinese, Thai",
+    "CostForTwo": "INR 1800",
+    "GoogleRating(outof5)": 3.6,
+    "ZomatoRating(outof5)": 4.3
+  },
+  {
+    "Restaurant": "Samode Haveli",
+    "MustTry": "Dal Makhni, Laal Maans, Butter Chicken",
+    "Location": "Near Jorawar Singh Gate, Gangapole",
+    "Cuisine": "Mughlai, North Indian, Continental, Rajasthani",
+    "CostForTwo": "INR 3500",
+    "GoogleRating(outof5)": 4.7,
+    "ZomatoRating(outof5)": 3.8
+  },
+  {
+    "Restaurant": "The Foressta",
+    "MustTry": "Butter Chicken, Risotto, Laal Maans, Spring Rolls",
+    "Location": "Ground Floor, Devraj Niwas, Near Moti Mahal Cinema, Bani Park",
+    "Cuisine": "Continental, Mexican, Desserts, North Indian, Chinese, Rajasthani",
+    "CostForTwo": "INR 1800",
+    "GoogleRating(outof5)": 4.1,
+    "ZomatoRating(outof5)": 4
+  },
+  {
+    "Restaurant": "1135 AD",
+    "MustTry": "Chicken Tikka, Paneer Lababdar, Paan Ice Cream, Laal Maans",
+    "Location": "Amer Road, Amer Kila",
+    "Cuisine": "North Indian, Pajasthani",
+    "CostForTwo": "INR 1000",
+    "GoogleRating(outof5)": 3.8,
+    "ZomatoRating(outof5)": 4
+  },
+  {
+    "Restaurant": "Cinnamon",
+    "MustTry": "Daal Makhani, Dal Bukhara, Vegetable Biryani",
+    "Location": "Jacob Road, Civil Lines, Ganpati Nagar",
+    "Cuisine": "North Indian",
+    "CostForTwo": "INR 3600",
+    "GoogleRating(outof5)": 4.6,
+    "ZomatoRating(outof5)": 3.9
+  },
+  {
+    "Restaurant": "Bar Palladio",
+    "MustTry": "Tiramisu, Spaghetti, Mashed Potato, Fries",
+    "Location": "Kanota Bagh, Bhag Singh Road, Adarsh Nagar",
+    "Cuisine": "Italian, Finger Food",
+    "CostForTwo": "INR 1800",
+    "GoogleRating(outof5)": 4.2,
+    "ZomatoRating(outof5)": 3.6
+  },
+  {
+    "Restaurant": "Steam",
+    "MustTry": "Thin Crust Pizza, Sangria, Falafel Wrap, Pizza Calzone",
+    "Location": "Rambagh Palace, Bhawani Singh Road, Rambagh",
+    "Cuisine": "Italian, Lebanese",
+    "CostForTwo": "INR 2800",
+    "GoogleRating(outof5)": 4.7,
+    "ZomatoRating(outof5)": 4.2
+  },
+  {
+    "Restaurant": "Om Resolving restaurant",
+    "MustTry": "Rajasthani Thali",
+    "Location": "Hotel OM Tower, MI Road, Church Road",
+    "Cuisine": "North Indian, Continental, Chinese, Rajasthani",
+    "CostForTwo": "INR 1800",
+    "GoogleRating(outof5)": 3.6,
+    "ZomatoRating(outof5)": 2.6
+  },
+  {
+    "Restaurant": "Colorbar",
+    "MustTry": "Mocktails, Paneer Tikka",
+    "Location": "Radisson Blu Jaipur, Tonk Road",
+    "Cuisine": "Finger Food",
+    "CostForTwo": "INR 3000",
+    "GoogleRating(outof5)": 4.7,
+    "ZomatoRating(outof5)": 4
+  },
+  {
+    "Restaurant": "Kaleidoscope",
+    "MustTry": "Beetroot tikki, Pesto Chicken, Chur Chur Paratha, Peri Peri Chicken",
+    "Location": "A-2/2, Tilak Marg, C Scheme, Ashok Nagar",
+    "Cuisine": "Continental, Italian, Mexican, North Indian",
+    "CostForTwo": "INR 1000",
+    "GoogleRating(outof5)": 4.2,
+    "ZomatoRating(outof5)": 4.1
+  },
+  {
+    "Restaurant": "Laxmi Mishthan Bhandar",
+    "MustTry": "Rajasthani Thali, Mawa Kachori, Onion Kachori, Dahi Vada",
+    "Location": "Shop No. 98-99, Johri Bazar",
+    "Cuisine": "Dessert, North Indian, South Indian, Rajasthani",
+    "CostForTwo": "INR 1000",
+    "GoogleRating(outof5)": 3.8,
+    "ZomatoRating(outof5)": 2.3
+  },
+  {
+    "Restaurant": "Blackout",
+    "MustTry": "Nachos, Club Sandwich, Chicken Pizza, Mocktails",
+    "Location": "D38A, 8th and 9th Floor, Golden Oak Hotel, Landmark Building, Ahinsa Cricle, C Scheme",
+    "Cuisine": "North Indian, Italian, Continental, Finger Food",
+    "CostForTwo": "INR 1650",
+    "GoogleRating(outof5)": 4,
+    "ZomatoRating(outof5)": 3.9
+  },
+  {
+    "Restaurant": "Caf� Lazy Mojo",
+    "MustTry": "Mocktails, Bruschetta, Nachos, Pene Alfredo",
+    "Location": "H1-H2, SL Marg, Opp. Genpact, Lal Bahadur Nagar, Malviya Nagar",
+    "Cuisine": "Mexican, Italian, Continental",
+    "CostForTwo": "INR 800",
+    "GoogleRating(outof5)": 4.4,
+    "ZomatoRating(outof5)": 4.2
+  },
+  {
+    "Restaurant": "OTB On The Bar BQ",
+    "MustTry": "Butter Chicken, BBQ, Nachos, Brownie",
+    "Location": "Rooftop, Crystal Court Mall, Malviya Nagar",
+    "Cuisine": "North Indian, Chinese, Continental, Mexican, Italian, Lebanese",
+    "CostForTwo": "INR 1200",
+    "GoogleRating(outof5)": 4.2,
+    "ZomatoRating(outof5)": 4.1
+  },
+  {
+    "Restaurant": "Poppin Organic Caf�",
+    "MustTry": "Breakfast Platter, Green Salad, Lasagna, Chicken Burger",
+    "Location": "E-145, First Floor, Ramesh Marg, C Scheme",
+    "Cuisine": "Italian, Chinese, Caf�",
+    "CostForTwo": "INR 800",
+    "GoogleRating(outof5)": 4.4,
+    "ZomatoRating(outof5)": 4.2
+  },
+  {
+    "Restaurant": "25 Degree East",
+    "MustTry": "Shahi Tukda, Chicken Malai Tikka Butter Chicken, Chicken Korma",
+    "Location": "f-11 A, Chaitanya Marg, C Scheme",
+    "Cuisine": "North Indian, Mughlai",
+    "CostForTwo": "INR 600",
+    "GoogleRating(outof5)": 4.3,
+    "ZomatoRating(outof5)": 4.5
+  },
+  {
+    "Restaurant": "Mamu's Infusion",
+    "MustTry": "Ravioli, Pasta Arrabiata, Mocktail, Falafel",
+    "Location": "101, 1st Floor, Mangalam Ambition Tower, Subash Marg, C Scheme",
+    "Cuisine": "Italian, Chinese, Thai, Mexican, North Indian",
+    "CostForTwo": "INR 1400",
+    "GoogleRating(outof5)": 4.1,
+    "ZomatoRating(outof5)": 4
+  }
+]
